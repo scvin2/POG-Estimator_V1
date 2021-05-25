@@ -2,7 +2,10 @@
 This repository contains a deep learning framework for estimating point of gaze on a public display screen by utilizing a RGBD camera.
 In this version of the project only Azure Kinect sensor is supported.
 
-![](https://github.com/scvin2/POG-Estimator_V1/blob/master/Participant_gaze_example.jpg  | width=100)
+
+<p align="center">
+  <img src="https://github.com/scvin2/POG-Estimator_V1/blob/master/Participant_gaze_example.jpg" width="500">
+</p>
 
 ## Description
 
