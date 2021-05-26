@@ -22,7 +22,26 @@ The participants where also instructed to change their position to a random loca
 The dataset will be made available online soon.
 
 ## Usage
+1. Clone this repository
 
+2. Download the dataset into the data directory
+
+3. Extract the dataset into the extracted_data directory by running the following command
+```
+python3 extract_gaze_data.py
+```
+
+4. Train the POG estimator model using train_gaze_pointer.py file.
+```
+python3 train_gaze_pointer.py
+```
+
+5. The weights file will be saved into the gaze_pointer_checkpoints directory.
+
+6. After training, the model can be tested using the tester file.
+```
+python3 pointer_interface_test.py
+```
 
 ## Requirements
 + Python >= 3.6
