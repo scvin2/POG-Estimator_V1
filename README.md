@@ -52,3 +52,4 @@ python3 pointer_interface_test.py
 + Platform: Linux
 
 ## Acknowledgments
+The face detector model was from [RetinaFace](https://github.com/deepinsight/insightface), the facial landmark detector was from [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) and the eye landmark detector model was based on [ELG](https://github.com/swook/GazeML).
