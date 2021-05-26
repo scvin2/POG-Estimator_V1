@@ -9,6 +9,12 @@ In this version of the project only Azure Kinect sensor is supported.
 
 ## Description
 
+## Dataset
+Will be uploaded soon.
+
+## Usage
+
+## 
 
 ## Requirements
 + Python >= 3.6
