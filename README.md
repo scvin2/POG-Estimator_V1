@@ -1,5 +1,5 @@
 # POG-Estimator_V1
-This repository contains a deep learning framework for estimating point of gaze on a public display screen by utilizing a RGBD camera.
+This repository contains a deep learning framework for estimating the point of gaze on a public display screen by utilizing a RGBD camera.
 In this version of the project only Azure Kinect sensor is supported.
 
 
@@ -8,13 +8,13 @@ In this version of the project only Azure Kinect sensor is supported.
 </p>
 
 ## Description
+Currently many methods exist for estimating the point of gaze on the screen. But, most of them are meant 
 
 ## Dataset
-Will be uploaded soon.
+Dataset will be made avaiable online soon.
 
 ## Usage
 
-## 
 
 ## Requirements
 + Python >= 3.6
@@ -23,3 +23,5 @@ Will be uploaded soon.
 + OpenCV-Python
 + pyk4a
 + Platform: Linux
+
+## Acknowledgments
